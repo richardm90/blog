@@ -1,0 +1,6 @@
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+title: RM Software Services Ltd Blog
+author: Richard Moulton
+description: Welcome to the RM Software Services Ltd Blog!
