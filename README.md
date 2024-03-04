@@ -1,2 +1,2 @@
-# blog
-RM Software Services Ltd Blog
+# Docs
+RM Software Services Ltd Docs

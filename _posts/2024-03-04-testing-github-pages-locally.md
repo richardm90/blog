@@ -4,6 +4,7 @@ title: "Testing GitHub Pages Locally"
 date: 2024-03-04
 tags:
 - GitHub Pages
+- Jekyll
 ---
 
 I started with the [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
@@ -37,7 +38,7 @@ Run `bundle install`.
 
 ```shell
 # cd to the local repo directory
-cd ~/git/rmss-blog
+cd ~/git/rmss-docs
 bundle exec jekyll serve
 ```
 
