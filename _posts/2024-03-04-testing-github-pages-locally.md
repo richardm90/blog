@@ -43,3 +43,8 @@ bundle exec jekyll serve
 ```
 
 Now point your browser at [http://127.0.0.1:4000](http://127.0.0.1:4000).
+
+```shell
+# serve draft articles
+bundle exec jekyll serve --drafts
+```
